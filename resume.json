@@ -1,0 +1,99 @@
+{
+    "basics": {
+        "name": "Priyanshu Kumar",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/73118426?v=4",
+        "email": "2021kucp1065@gmail.com",
+        "phone": "+917209289593",
+        "summary": "Hi, this is Priyanshu Kumar from CSE branch, IIIT Kota. I'm a java developer and a competitive programmer. Hope you like my profile and learn something from me.",
+        "location": {
+            "address": "Patna",
+            "postalCode": "801503",
+            "city": "Patna",
+            "countryCode": " India",
+            "region": "Bihar"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "anon8bits",
+                "url": "https://github.com/anon8bits"
+            },
+            {
+                "network": "linkedin",
+                "username": "pr1yanshukumar",
+                "url": "https://www.linkedin.com/in/pr1yanshukumar/"
+            },
+            {
+                "network": "Instagram",
+                "username": "priyanshu_o_0",
+                "url": "https://instagram.com/priyanshu_o_0"
+            }
+        ]
+    },
+    "work": [
+       
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2021",
+            "endDate": "2025",
+            "gpa": "8",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        
+    ],
+    "publications": [
+        
+    ],
+    "skills": [
+        {
+            "name": "App Developer",
+            "level": "Rookie",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Java",
+                "C/C++",
+                "Kotlin"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Adept"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Amateur"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Football"
+            ]
+        },
+        {
+            "name": "Reading",
+            "keywords": [
+                "Self-growth books",
+                "Novels"
+            ]
+        }
+    ]
+}
